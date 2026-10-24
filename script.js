@@ -1,4 +1,5 @@
-
+// Calculadora de notas del Instituto i3.
+// Valida los datos y determina el estado del estudiante.
 const formulario = document.getElementById("formulario");
 const resultado = document.getElementById("resultado");
 
